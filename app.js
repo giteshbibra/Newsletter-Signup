@@ -82,12 +82,7 @@ app.listen(process.env.PORT || 3000, function () {
 
 
 
-// API KEY
-// 7bd9767ddfee8faebbc66e654b8e4ddf-us6
 
-
-// List ID
-// 3ae1ded780
 
 // Heroku
 // https://afternoon-fortress-00017.herokuapp.com/
