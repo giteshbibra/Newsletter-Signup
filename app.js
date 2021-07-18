@@ -39,7 +39,7 @@ app.post("/", function (req, res) {
 
     const options = {
         method: "POST",
-        auth: "gitesh1:a7bd9767ddfee8faebbc66e654b8e4ddf-us6"
+        auth: "gitesh1:7bd9767ddfee8faebbc66e654b8e4ddf-us6"
     }
         ;
     const request = https.request(url, options, function (response) {
